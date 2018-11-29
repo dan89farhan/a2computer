@@ -17,7 +17,7 @@
                 <img class="img-responsive img-border-left" src="img/pc.png" alt="old computer">
             </div>
             <div class="col-md-10">
-                <p> A2Computer is )ne of the most prominent organizations engaged in sale of second hand computer,
+                <p> A2Computer is one of the most prominent organizations engaged in sale of second hand computer,
                      We are second hand computer dealer, Second Hand Computers,Second Hand Laptops, Printer, CPU, LCD/Monitor,
                         In an extensive manner quality extra parts are utilized by us for repairing or changing the machines,
                         The machines we offer for resale are in light of current circumstances picked up damage at respects to working and execution, of old and utilized machines,
