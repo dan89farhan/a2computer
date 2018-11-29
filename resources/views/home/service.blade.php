@@ -10,14 +10,14 @@
         <div class="box">
             <div class="col-lg-12">
                 <hr>
-                <h2 class="intro-text text-center">old Computer</h2>
+                <h2 class="intro-text text-center">Old Computer</h2>
                 <hr>
             </div>
             <div class="col-md-2">
                 <img class="img-responsive img-border-left" src="img/pc.png" alt="old computer">
             </div>
             <div class="col-md-10">
-                <p> A2Computer is one of the most prominent organizations engaged in sale of second hand computer,
+                <p> A2Computer is One of the most prominent organizations engaged in sale of second hand computer,
                      We are second hand computer dealer, Second Hand Computers,Second Hand Laptops, Printer, CPU, LCD/Monitor,
                         In an extensive manner quality extra parts are utilized by us for repairing or changing the machines,
                         The machines we offer for resale are in light of current circumstances picked up damage at respects to working and execution, of old and utilized machines,
