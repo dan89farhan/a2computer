@@ -10,7 +10,7 @@
         <div class="box">
             <div class="col-lg-12">
                 <hr>
-                <h2 class="intro-text text-center">Old Computer</h2>
+                <h2 class="intro-text text-center">old Computer</h2>
                 <hr>
             </div>
             <div class="col-md-2">
