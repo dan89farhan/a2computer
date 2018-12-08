@@ -1,7 +1,6 @@
 <?php
 
-
-Route::get('/',"HomeController@home");
+Route::get('/',"TestController@home");
 Route::get('home',"HomeController@home");
 Route::get('contact',"HomeController@contact");
 Route::get('service',"HomeController@service");
