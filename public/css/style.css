@@ -125,8 +125,9 @@ h6 {
 --------------------------------------------------------------*/
 
 #header {
-  padding: 30px 0;
-  height: 92px;
+  background: rgba(0, 0, 0, 0.9);
+  padding: 20px 0;
+  height: 72px;
   position: fixed;
   left: 0;
   top: 0;
@@ -136,9 +137,6 @@ h6 {
 }
 
 #header.header-scrolled {
-  background: rgba(0, 0, 0, 0.9);
-  padding: 20px 0;
-  height: 72px;
   transition: all 0.5s;
 }
 
@@ -1574,5 +1572,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 
   #mobile-nav-toggle {
     display: inline;
+  }
+  .gap
+  {
+    height: 80px;
   }
 }
