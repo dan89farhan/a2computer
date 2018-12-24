@@ -14,23 +14,19 @@
             <div class="carousel-inner" role="listbox">
     
               <div class="carousel-item active">
-                <div class="carousel-background"><img src="img/intro-carousel/1.jpg" alt=""></div>
+                <div class="carousel-background"><img src="img/portfolio/laptop4.jpg" alt=""></div>
               </div>
     
               <div class="carousel-item">
-                <div class="carousel-background"><img src="img/intro-carousel/2.jpg" alt=""></div>
+                <div class="carousel-background"><img src="img/portfolio/cctv4.jpg" alt=""></div>
               </div>
     
               <div class="carousel-item">
-                <div class="carousel-background"><img src="img/intro-carousel/3.jpg" alt=""></div>
+                <div class="carousel-background"><img src="img/portfolio/pc4.jpg" alt=""></div>
               </div>
     
               <div class="carousel-item">
-                <div class="carousel-background"><img src="img/intro-carousel/4.jpg" alt=""></div>
-              </div>
-    
-              <div class="carousel-item">
-                <div class="carousel-background"><img src="img/intro-carousel/5.jpg" alt=""></div>
+                <div class="carousel-background"><img src="img/portfolio/wire1.jpg" alt=""></div>
               </div>
     
             </div>

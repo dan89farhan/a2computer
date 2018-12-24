@@ -1,7 +1,7 @@
 @extends("layout.MasterPage") 
 
 @section("title","InstallSoftware")
-
+@section("QueryType","InstallSoftware")
 @section("body") 
 
 
@@ -13,25 +13,17 @@
 
         <div class="carousel-inner" role="listbox">
 
-          <div class="carousel-item active">
-            <div class="carousel-background"><img src="img/intro-carousel/1.jpg" alt=""></div>
-          </div>
-
-          <div class="carousel-item">
-            <div class="carousel-background"><img src="img/intro-carousel/2.jpg" alt=""></div>
-          </div>
-
-          <div class="carousel-item">
-            <div class="carousel-background"><img src="img/intro-carousel/3.jpg" alt=""></div>
-          </div>
-
-          <div class="carousel-item">
-            <div class="carousel-background"><img src="img/intro-carousel/4.jpg" alt=""></div>
-          </div>
-
-          <div class="carousel-item">
-            <div class="carousel-background"><img src="img/intro-carousel/5.jpg" alt=""></div>
-          </div>
+            <div class="carousel-item active">
+                <div class="carousel-background"><img src="img/portfolio/web1.jpg" alt=""></div>
+            </div>
+    
+            <div class="carousel-item">
+                  <div class="carousel-background"><img src="img/portfolio/web2.jpg" alt=""></div>
+            </div>
+    
+            <div class="carousel-item">
+                  <div class="carousel-background"><img src="img/portfolio/web3.jpg" alt=""></div>
+            </div>
 
         </div>
 
@@ -61,67 +53,66 @@
             <p>A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
           </header>
 
-          <div class="row counters">
-
-                <div class="col-lg-3 col-6 text-center">
-                  <span data-toggle="counter-up">274</span>
-                  <p>Computer</p>
+          <div class="container">
+              <div class="row counters">
+                <div class="col-lg-6 col-6 text-center">
+                    <p style="padding-top: 30%;">A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
                 </div>
-
-              <div class="col-lg-3 col-6 text-center">
-                  <span data-toggle="counter-up">421</span>
-                  <p>Install Software</p>
-                </div>
-
-            <div class="col-lg-3 col-6 text-center">
-              <span data-toggle="counter-up">1,364</span>
-              <p>Remote Servicet</p>
+                <div class="col-lg-6 col-6 text-center">
+                    <div class="">
+                      <img src="img/portfolio/operatings1.jpg" alt="" width="100%" height="100%">
                     </div>
-
-            <div class="col-lg-3 col-6 text-center">
-              <span data-toggle="counter-up">18</span>
-              <p>CCTV Rent</p>
-                    </div>
-
                 </div>
+              </div>
+              </div>
+            </div>
+        </section>
+      
+        <section id="facts"  class="wow fadeIn">
+            <div class="container">
+                <div class="row counters">
+                  <div class="col-lg-6 col-6 text-center">
+                      <div class="">
+                        <img src="img/portfolio/operatings2.jpg" alt="" width="100%" height="100%" >
+                      </div>
+                  </div>
+                  <div class="col-lg-6 col-6 text-center">
+                      <p style="padding-top: 30%;">A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+                  </div>
+                </div>
+            </div>
+        </section>
 
-        </div>
-    </section>
-
-    <section id="facts"  class="wow fadeIn">
+        <section id="facts"  class="wow fadeIn">
         <div class="container">
-
-          <header class="section-header">
-            <h3>Install AntiVirus</h3>
-            <p>A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
-          </header>
-
-          <div class="row counters">
-
-                <div class="col-lg-3 col-6 text-center">
-                  <span data-toggle="counter-up">274</span>
-                  <p>Computer</p>
-                </div>
-
-              <div class="col-lg-3 col-6 text-center">
-                  <span data-toggle="counter-up">421</span>
-                  <p>Install Software</p>
-                </div>
-
-            <div class="col-lg-3 col-6 text-center">
-              <span data-toggle="counter-up">1,364</span>
-              <p>Remote Servicet</p>
+            <div class="row counters">
+              <div class="col-lg-6 col-6 text-center">
+                  <p style="padding-top: 30%;">A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+              </div>
+              <div class="col-lg-6 col-6 text-center">
+                  <div class="">
+                    <img src="img/portfolio/operatings3.jpg" alt="" width="100%" height="100%">
+                  </div>
+              </div>
+            </div>
+            </div>
+          </div>
+      </section>
+    
+      <section id="facts"  class="wow fadeIn">
+          <div class="container">
+              <div class="row counters">
+                <div class="col-lg-6 col-6 text-center">
+                    <div class="">
+                      <img src="img/portfolio/operatings4.jpg" alt="" width="100%" height="100%" >
                     </div>
-
-            <div class="col-lg-3 col-6 text-center">
-              <span data-toggle="counter-up">18</span>
-              <p>CCTV Rent</p>
-                    </div>
-
                 </div>
-
-        </div>
-    </section>
+                <div class="col-lg-6 col-6 text-center">
+                    <p style="padding-top: 30%;">A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+                </div>
+              </div>
+          </div>
+      </section>
 
     <section id="facts"  class="wow fadeIn">
         <div class="container">
@@ -131,32 +122,66 @@
             <p>A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
           </header>
 
-          <div class="row counters">
-
-                <div class="col-lg-3 col-6 text-center">
-                  <span data-toggle="counter-up">274</span>
-                  <p>Computer</p>
+          <div class="container">
+              <div class="row counters">
+                <div class="col-lg-6 col-6 text-center">
+                    <p style="padding-top: 30%;">A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
                 </div>
-
-              <div class="col-lg-3 col-6 text-center">
-                  <span data-toggle="counter-up">421</span>
-                  <p>Install Software</p>
-                </div>
-
-            <div class="col-lg-3 col-6 text-center">
-              <span data-toggle="counter-up">1,364</span>
-              <p>Remote Servicet</p>
+                <div class="col-lg-6 col-6 text-center">
+                    <div class="">
+                      <img src="img/portfolio/softwares1.jpg" alt="" width="100%" height="100%">
                     </div>
-
-            <div class="col-lg-3 col-6 text-center">
-              <span data-toggle="counter-up">18</span>
-              <p>CCTV Rent</p>
-                    </div>
-
                 </div>
+              </div>
+              </div>
+            </div>
+        </section>
+      
+        <section id="facts"  class="wow fadeIn">
+            <div class="container">
+                <div class="row counters">
+                  <div class="col-lg-6 col-6 text-center">
+                      <div class="">
+                        <img src="img/portfolio/web1.jpg" alt="" width="100%" height="100%" >
+                      </div>
+                  </div>
+                  <div class="col-lg-6 col-6 text-center">
+                      <p style="padding-top: 30%;">A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+                  </div>
+                </div>
+            </div>
+        </section>
 
-        </div>
-    </section>
+        <section id="facts"  class="wow fadeIn">
+        <div class="container">
+            <div class="row counters">
+              <div class="col-lg-6 col-6 text-center">
+                  <p style="padding-top: 30%;">A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+              </div>
+              <div class="col-lg-6 col-6 text-center">
+                  <div class="">
+                    <img src="img/portfolio/web2.jpg" alt="" width="100%" height="100%">
+                  </div>
+              </div>
+            </div>
+            </div>
+          </div>
+      </section>
+    
+      <section id="facts"  class="wow fadeIn">
+          <div class="container">
+              <div class="row counters">
+                <div class="col-lg-6 col-6 text-center">
+                    <div class="">
+                      <img src="img/portfolio/web3.jpg" alt="" width="100%" height="100%" >
+                    </div>
+                </div>
+                <div class="col-lg-6 col-6 text-center">
+                    <p style="padding-top: 30%;">A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+                </div>
+              </div>
+          </div>
+      </section>
 
   </main>
 

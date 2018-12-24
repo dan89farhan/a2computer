@@ -26,7 +26,7 @@
                 </div>
                 <h2 class="title"><a href="#">Our Mission</a></h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                    The A2Computer Mission is to efficiently provide access and availability to IT support services such as Computer, CCTV and Install Spftware to the satisfaction of all its customers by providing an informative and support.
                 </p>
               </div>
             </div>
@@ -39,7 +39,7 @@
                 </div>
                 <h2 class="title"><a href="#">Our Plan</a></h2>
                 <p>
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem  doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+                    The A2Computer Plan is to efficiently provide access and availability to IT support services such as Computer, CCTV and Install Spftware to the satisfaction of all its customers by providing an informative and support.
                 </p>
               </div>
             </div>
@@ -52,7 +52,7 @@
                 </div>
                 <h2 class="title"><a href="#">Our Vision</a></h2>
                 <p>
-                  Nemo enim ipsam voluptatem quia voluptas sit aut odit aut fugit, sed quia magni dolores eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet.
+                    The A2Computer Vision is to efficiently provide access and availability to IT support services such as Computer, CCTV and Install Spftware to the satisfaction of all its customers by providing an informative and support.
                 </p>
               </div>
             </div>

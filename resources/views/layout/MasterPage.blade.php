@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>A2Computer</title>
+  <title>A2Computer - @yield('title')</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -27,7 +27,7 @@
             </div>
             <nav id="nav-menu-container">
                 <ul class="nav-menu">
-                    <li class="menu-active"><a href="Home">Home</a></li>
+                    <li><a href="Home">Home</a></li>
                     <li><a href="AboutUs">About Us</a></li>
                     <li>
                         <ul>
@@ -39,6 +39,7 @@
                     </li>
                     <li><a href="Gallery">Gallery</a></li>
                     <li><a href="Contact">Contact</a></li>
+                    <li><a href="Query" style="background-color: #43455c;padding-bottom: 5px;">Having Query ?</a></li>
                 </ul>
             </nav>
         </div>

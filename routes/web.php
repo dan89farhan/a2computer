@@ -6,6 +6,7 @@ Route::get('Gallery',"PageController@Gallery");
 Route::get('Contact',"PageController@Contact");
 Route::get('AboutUs',"PageController@AboutUs");
 Route::get('Services',"PageController@Services");
+Route::get('Query',"PageController@Query");
 
 Route::get('Computer',"ServiceController@Computer");
 Route::get('InstallSoftware',"ServiceController@InstallSoftware");

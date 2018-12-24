@@ -28,4 +28,9 @@ class PageController extends BaseController
     {
         return view('Pages.Services');
     }
+    public function Query()
+    {
+        return view('Pages.Query');
+    }
+    
 }

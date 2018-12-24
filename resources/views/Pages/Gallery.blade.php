@@ -13,142 +13,229 @@
         <h3 class="section-title">Gallery</h3>
       </header>
 
-      <div class="row">
-        <div class="col-lg-12">
-          <ul id="portfolio-flters">
-            <li data-filter="*" class="filter-active">All</li>
-            <li data-filter=".filter-app">App</li>
-            <li data-filter=".filter-card">Card</li>
-            <li data-filter=".filter-web">Web</li>
-          </ul>
-        </div>
-      </div>
-
       <div class="row portfolio-container">
-
         <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp">
           <div class="portfolio-wrap">
             <figure>
-              <img src="img/portfolio/app1.jpg" class="img-fluid" alt="">
-              <a href="img/portfolio/app1.jpg" data-lightbox="portfolio" data-title="App 1" class="link-preview" title="Preview"><i class="ion ion-eye"></i></a>
+              <img src="img/portfolio/cctv1.jpg" class="img-fluid" alt="">
+              <a href="img/portfolio/cctv1.jpg" data-lightbox="portfolio" data-title="cctv 1" class="link-preview" title="Preview"><i class="ion ion-eye"></i></a>
             </figure>
-
-            <div class="portfolio-info">
-              <h4><a href="#">App 1</a></h4>
-              <p>App</p>
-            </div>
           </div>
         </div>
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-web wow fadeInUp" data-wow-delay="0.1s">
           <div class="portfolio-wrap">
             <figure>
-              <img src="img/portfolio/web3.jpg" class="img-fluid" alt="">
-              <a href="img/portfolio/web3.jpg" class="link-preview" data-lightbox="portfolio" data-title="Web 3" title="Preview"><i class="ion ion-eye"></i></a>
+              <img src="img/portfolio/cctv2.jpg" class="img-fluid" alt="">
+              <a href="img/portfolio/cctv2.jpg" class="link-preview" data-lightbox="portfolio" data-title="cctv 2" title="Preview"><i class="ion ion-eye"></i></a>
             </figure>
-
-            <div class="portfolio-info">
-              <h4><a href="#">Web 3</a></h4>
-              <p>Web</p>
-            </div>
           </div>
         </div>
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
           <div class="portfolio-wrap">
             <figure>
-              <img src="img/portfolio/app2.jpg" class="img-fluid" alt="">
-              <a href="img/portfolio/app2.jpg" class="link-preview" data-lightbox="portfolio" data-title="App 2" title="Preview"><i class="ion ion-eye"></i></a>
+              <img src="img/portfolio/cctv3.jpg" class="img-fluid" alt="">
+              <a href="img/portfolio/cctv3.jpg" class="link-preview" data-lightbox="portfolio" data-title="cctv 3" title="Preview"><i class="ion ion-eye"></i></a>
             </figure>
-
-            <div class="portfolio-info">
-              <h4><a href="#">App 2</a></h4>
-              <p>App</p>
-            </div>
           </div>
         </div>
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp">
           <div class="portfolio-wrap">
             <figure>
-              <img src="img/portfolio/card2.jpg" class="img-fluid" alt="">
-              <a href="img/portfolio/card2.jpg" class="link-preview" data-lightbox="portfolio" data-title="Card 2" title="Preview"><i class="ion ion-eye"></i></a>
+              <img src="img/portfolio/cctv4.jpg" class="img-fluid" alt="">
+              <a href="img/portfolio/cctv4.jpg" class="link-preview" data-lightbox="portfolio" data-title="cctv 4" title="Preview"><i class="ion ion-eye"></i></a>
             </figure>
-
-            <div class="portfolio-info">
-              <h4><a href="#">Card 2</a></h4>
-              <p>Card</p>
-            </div>
           </div>
         </div>
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-web wow fadeInUp" data-wow-delay="0.1s">
           <div class="portfolio-wrap">
             <figure>
-              <img src="img/portfolio/web2.jpg" class="img-fluid" alt="">
-              <a href="img/portfolio/web2.jpg" class="link-preview" data-lightbox="portfolio" data-title="Web 2" title="Preview"><i class="ion ion-eye"></i></a>
+              <img src="img/portfolio/cctv5.jpg" class="img-fluid" alt="">
+              <a href="img/portfolio/cctv5.jpg" class="link-preview" data-lightbox="portfolio" data-title="cctv 5" title="Preview"><i class="ion ion-eye"></i></a>
             </figure>
-
-            <div class="portfolio-info">
-              <h4><a href="#">Web 2</a></h4>
-              <p>Web</p>
-            </div>
           </div>
         </div>
 
         <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
           <div class="portfolio-wrap">
             <figure>
-              <img src="img/portfolio/app3.jpg" class="img-fluid" alt="">
-              <a href="img/portfolio/app3.jpg" class="link-preview" data-lightbox="portfolio" data-title="App 3" title="Preview"><i class="ion ion-eye"></i></a>
+              <img src="img/portfolio/cctv6.jpg" class="img-fluid" alt="">
+              <a href="img/portfolio/cctv6.jpg" class="link-preview" data-lightbox="portfolio" data-title="cctv 6" title="Preview"><i class="ion ion-eye"></i></a>
             </figure>
-
-            <div class="portfolio-info">
-              <h4><a href="#">App 3</a></h4>
-              <p>App</p>
-            </div>
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp">
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
           <div class="portfolio-wrap">
             <figure>
-              <img src="img/portfolio/card1.jpg" class="img-fluid" alt="">
-              <a href="img/portfolio/card1.jpg" class="link-preview" data-lightbox="portfolio" data-title="Card 1" title="Preview"><i class="ion ion-eye"></i></a>
+              <img src="img/portfolio/cctv7.jpg" class="img-fluid" alt="">
+              <a href="img/portfolio/cctv7.jpg" class="link-preview" data-lightbox="portfolio" data-title="cctv 7" title="Preview"><i class="ion ion-eye"></i></a>
             </figure>
-
-            <div class="portfolio-info">
-              <h4><a href="#">Card 1</a></h4>
-              <p>Card</p>
-            </div>
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp" data-wow-delay="0.1s">
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
           <div class="portfolio-wrap">
             <figure>
-              <img src="img/portfolio/card3.jpg" class="img-fluid" alt="">
-              <a href="img/portfolio/card3.jpg" class="link-preview" data-lightbox="portfolio" data-title="Card 3" title="Preview"><i class="ion ion-eye"></i></a>
+              <img src="img/portfolio/cctv8.jpg" class="img-fluid" alt="">
+              <a href="img/portfolio/cctv8.jpg" class="link-preview" data-lightbox="portfolio" data-title="cctv 8" title="Preview"><i class="ion ion-eye"></i></a>
             </figure>
-
-            <div class="portfolio-info">
-              <h4><a href="#">Card 3</a></h4>
-              <p>Card</p>
-            </div>
           </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 portfolio-item filter-web wow fadeInUp" data-wow-delay="0.2s">
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
           <div class="portfolio-wrap">
             <figure>
-              <img src="img/portfolio/web1.jpg" class="img-fluid" alt="">
-              <a href="img/portfolio/web1.jpg" class="link-preview" data-lightbox="portfolio" data-title="Web 1" title="Preview"><i class="ion ion-eye"></i></a>
+              <img src="img/portfolio/cctv9.jpg" class="img-fluid" alt="">
+              <a href="img/portfolio/cctv9.jpg" class="link-preview" data-lightbox="portfolio" data-title="cctv 9" title="Preview"><i class="ion ion-eye"></i></a>
             </figure>
+          </div>
+        </div>
 
-            <div class="portfolio-info">
-              <h4><a href="#">Web 1</a></h4>
-              <p>Web</p>
-            </div>
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
+          <div class="portfolio-wrap">
+            <figure>
+              <img src="img/portfolio/cctv10.jpg" class="img-fluid" alt="">
+              <a href="img/portfolio/cctv10.jpg" class="link-preview" data-lightbox="portfolio" data-title="cctv 10" title="Preview"><i class="ion ion-eye"></i></a>
+            </figure>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
+          <div class="portfolio-wrap">
+            <figure>
+              <img src="img/portfolio/cctv11.jpg" class="img-fluid" alt="">
+              <a href="img/portfolio/cctv11.jpg" class="link-preview" data-lightbox="portfolio" data-title="cctv 11" title="Preview"><i class="ion ion-eye"></i></a>
+            </figure>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
+          <div class="portfolio-wrap">
+            <figure>
+              <img src="img/portfolio/cctv12.jpg" class="img-fluid" alt="">
+              <a href="img/portfolio/cctv12.jpg" class="link-preview" data-lightbox="portfolio" data-title="cctv 12" title="Preview"><i class="ion ion-eye"></i></a>
+            </figure>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
+          <div class="portfolio-wrap">
+            <figure>
+              <img src="img/portfolio/pc1.jpg" class="img-fluid" alt="">
+              <a href="img/portfolio/pc1.jpg" class="link-preview" data-lightbox="portfolio" data-title="pc 1" title="Preview"><i class="ion ion-eye"></i></a>
+            </figure>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
+          <div class="portfolio-wrap">
+            <figure>
+              <img src="img/portfolio/pc2.jpg" class="img-fluid" alt="">
+              <a href="img/portfolio/pc2.jpg" class="link-preview" data-lightbox="portfolio" data-title="pc 2" title="Preview"><i class="ion ion-eye"></i></a>
+            </figure>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
+          <div class="portfolio-wrap">
+            <figure>
+              <img src="img/portfolio/pc3.jpg" class="img-fluid" alt="">
+              <a href="img/portfolio/pc3.jpg" class="link-preview" data-lightbox="portfolio" data-title="pc 3" title="Preview"><i class="ion ion-eye"></i></a>
+            </figure>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
+          <div class="portfolio-wrap">
+            <figure>
+              <img src="img/portfolio/pc4.jpg" class="img-fluid" alt="">
+              <a href="img/portfolio/pc4.jpg" class="link-preview" data-lightbox="portfolio" data-title="pc 4" title="Preview"><i class="ion ion-eye"></i></a>
+            </figure>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
+          <div class="portfolio-wrap">
+            <figure>
+              <img src="img/portfolio/pc5.jpg" class="img-fluid" alt="">
+              <a href="img/portfolio/pc5.jpg" class="link-preview" data-lightbox="portfolio" data-title="pc 5" title="Preview"><i class="ion ion-eye"></i></a>
+            </figure>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
+          <div class="portfolio-wrap">
+            <figure>
+              <img src="img/portfolio/laptop1.jpg" class="img-fluid" alt="">
+              <a href="img/portfolio/laptop1.jpg" class="link-preview" data-lightbox="portfolio" data-title="laptop 1" title="Preview"><i class="ion ion-eye"></i></a>
+            </figure>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
+          <div class="portfolio-wrap">
+            <figure>
+              <img src="img/portfolio/laptop2.jpg" class="img-fluid" alt="">
+              <a href="img/portfolio/laptop2.jpg" class="link-preview" data-lightbox="portfolio" data-title="laptop 2" title="Preview"><i class="ion ion-eye"></i></a>
+            </figure>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
+          <div class="portfolio-wrap">
+            <figure>
+              <img src="img/portfolio/laptop3.jpg" class="img-fluid" alt="">
+              <a href="img/portfolio/laptop3.jpg" class="link-preview" data-lightbox="portfolio" data-title="laptop 3" title="Preview"><i class="ion ion-eye"></i></a>
+            </figure>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
+          <div class="portfolio-wrap">
+            <figure>
+              <img src="img/portfolio/laptop4.jpg" class="img-fluid" alt="">
+              <a href="img/portfolio/laptop4.jpg" class="link-preview" data-lightbox="portfolio" data-title="laptop 4" title="Preview"><i class="ion ion-eye"></i></a>
+            </figure>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
+          <div class="portfolio-wrap">
+            <figure>
+              <img src="img/portfolio/wire1.jpg" class="img-fluid" alt="">
+              <a href="img/portfolio/wire1.jpg" class="link-preview" data-lightbox="portfolio" data-title="wire 1" title="Preview"><i class="ion ion-eye"></i></a>
+            </figure>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
+          <div class="portfolio-wrap">
+            <figure>
+              <img src="img/portfolio/wire2.jpg" class="img-fluid" alt="">
+              <a href="img/portfolio/wire2.jpg" class="link-preview" data-lightbox="portfolio" data-title="wire 2" title="Preview"><i class="ion ion-eye"></i></a>
+            </figure>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
+          <div class="portfolio-wrap">
+            <figure>
+              <img src="img/portfolio/wire3.jpg" class="img-fluid" alt="">
+              <a href="img/portfolio/wire3.jpg" class="link-preview" data-lightbox="portfolio" data-title="wire 3" title="Preview"><i class="ion ion-eye"></i></a>
+            </figure>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
+          <div class="portfolio-wrap">
+            <figure>
+              <img src="img/portfolio/wire4.jpg" class="img-fluid" alt="">
+              <a href="img/portfolio/wire4.jpg" class="link-preview" data-lightbox="portfolio" data-title="wire 4" title="Preview"><i class="ion ion-eye"></i></a>
+            </figure>
           </div>
         </div>
 
