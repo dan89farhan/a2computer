@@ -14,19 +14,19 @@
             <div class="carousel-inner" role="listbox">
     
               <div class="carousel-item active">
-                <div class="carousel-background"><img src="img/portfolio/laptop4.jpg" alt=""></div>
+                <div class="carousel-background"><img src="img/portfolio/ocs6.jpg" alt=""></div>
               </div>
     
               <div class="carousel-item">
-                <div class="carousel-background"><img src="img/portfolio/cctv4.jpg" alt=""></div>
+                <div class="carousel-background"><img src="img/portfolio/ocs11.jpg" alt=""></div>
               </div>
     
               <div class="carousel-item">
-                <div class="carousel-background"><img src="img/portfolio/pc4.jpg" alt=""></div>
+                <div class="carousel-background"><img src="img/portfolio/web1.jpg" alt=""></div>
               </div>
     
               <div class="carousel-item">
-                <div class="carousel-background"><img src="img/portfolio/wire1.jpg" alt=""></div>
+                <div class="carousel-background"><img src="img/portfolio/cctvs4.jpg" alt=""></div>
               </div>
     
             </div>
@@ -57,22 +57,17 @@
     
             <div class="row counters">
     
-                  <div class="col-lg-3 col-6 text-center">
+                  <div class="col-lg-4 col-6 text-center">
                     <span data-toggle="counter-up">274</span>
                     <p>Computer</p>
                   </div>
     
-                <div class="col-lg-3 col-6 text-center">
+                <div class="col-lg-4 col-6 text-center">
                     <span data-toggle="counter-up">421</span>
                     <p>Install Software</p>
                   </div>
     
-              <div class="col-lg-3 col-6 text-center">
-                <span data-toggle="counter-up">1,364</span>
-                <p>Remote Servicet</p>
-                      </div>
-    
-              <div class="col-lg-3 col-6 text-center">
+              <div class="col-lg-4 col-6 text-center">
                 <span data-toggle="counter-up">18</span>
                 <p>CCTV</p>
                       </div>
