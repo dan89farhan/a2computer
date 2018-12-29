@@ -48,13 +48,13 @@
 
           <header class="section-header">
             <h3>Purchase CCTV</h3>
-            <p>A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+            <p>A2Computer offers CCTV for all your surveillance needs. We can provide with products as per the customer requirements.</p>
           </header>
 
           <div class="container">
               <div class="row counters">
                 <div class="col-lg-6 col-6 text-center">
-                    <p style="padding-top: 30%;">A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+                    <p style="padding-top: 30%;">CCTV acts as a crime deterrent. Potential criminals who see the camera may be dissuaded from following through with their planned criminal activities for fear of being caught on tape.</p>
                 </div>
                 <div class="col-lg-6 col-6 text-center">
                     <div class="">
@@ -75,7 +75,7 @@
                       </div>
                   </div>
                   <div class="col-lg-6 col-6 text-center">
-                      <p style="padding-top: 30%;">A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+                      <p style="padding-top: 30%;">Increased safety. Increased safety for you, your employees and your customers is likely a top priority, and a CCTV camera can help achieve that.</p>
                   </div>
                 </div>
             </div>
@@ -85,7 +85,7 @@
             <div class="container">
                 <div class="row counters">
                   <div class="col-lg-6 col-6 text-center">
-                      <p style="padding-top: 30%;">A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+                      <p style="padding-top: 30%;">If a crime does occur, the CCTV camera can provide evidence needed to catch and convict the criminal.</p>
                   </div>
                   <div class="col-lg-6 col-6 text-center">
                       <div class="">
@@ -106,7 +106,7 @@
                         </div>
                     </div>
                     <div class="col-lg-6 col-6 text-center">
-                        <p style="padding-top: 30%;">A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+                        <p style="padding-top: 30%;">you can monitor your business from anywhere. Technology allows you to watch the camera feed on your smartphone or via the internet. That means you can check in on your business during off-hours, on weekends or when you’re on vacation.</p>
                     </div>
                   </div>
               </div>
@@ -117,13 +117,13 @@
 
           <header class="section-header">
             <h3>Install CCTV</h3>
-            <p>A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+            <p>A2Computer offers InstallCCTV for all your surveillance needs. We can provide with products as per the customer requirements.</p>
           </header>
 
           <div class="container">
               <div class="row counters">
                 <div class="col-lg-6 col-6 text-center">
-                    <p style="padding-top: 30%;">A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+                    <p style="padding-top: 30%;">The installation costs for a CCTV camera are very high . However, with A2Computer, we provide at low costs .</p>
                 </div>
                 <div class="col-lg-6 col-6 text-center">
                     <div class="">
@@ -144,11 +144,89 @@
                       </div>
                   </div>
                   <div class="col-lg-6 col-6 text-center">
-                      <p style="padding-top: 30%;">A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+                      <p style="padding-top: 30%;">The installation process for a CCTV camera is very time consuming . However, with A2Computer, we installation CCTV camera at very low time.</p>
                   </div>
                 </div>
             </div>
         </section>
+
+        <section id="facts"  class="wow fadeIn">
+            <div class="container">
+    
+              <header class="section-header">
+                <h3>Door Bell</h3>
+                <p>A2Computer offers Door Bell for all your needs. We can provide with products as per the customer requirements.</p>
+              </header>
+    
+              <div class="container">
+                  <div class="row counters">
+                    <div class="col-lg-6 col-6 text-center">
+                        <p style="padding-top: 30%;">doorbell uses coded signals that are sent and received between the panel at the exterior door containing the bell press switch, and the wireless ones are kept inside the house.</p>
+                    </div>
+                    <div class="col-lg-6 col-6 text-center">
+                        <div class="">
+                          <img src="img/portfolio/dbs1.jpeg" alt="" width="100%" height="100%">
+                        </div>
+                    </div>
+                  </div>
+                  </div>
+                </div>
+            </section>
+          
+            <section id="facts"  class="wow fadeIn">
+                <div class="container">
+                    <div class="row counters">
+                      <div class="col-lg-6 col-6 text-center">
+                          <div class="">
+                            <img src="img/portfolio/dbs2.jpeg" alt="" width="100%" height="100%" >
+                          </div>
+                      </div>
+                      <div class="col-lg-6 col-6 text-center">
+                          <p style="padding-top: 30%;">Whenever a visitor standing outside the door presses the doorbell button, the panel sends a signal from outside the house which is received by the doorbell inside and thus it emits a distinct sound that is heard by the person inside the house.</p>
+                      </div>
+                    </div>
+                </div>
+            </section>
+    
+        <section id="facts"  class="wow fadeIn">
+            <div class="container">
+    
+              <header class="section-header">
+                <h3>Fire Alaram</h3>
+                <p>A2Computer offers Fire Alaram for all your needs. We can provide with products as per the customer requirements.</p>
+              </header>
+    
+              <div class="container">
+                  <div class="row counters">
+                    <div class="col-lg-6 col-6 text-center">
+                        <p style="padding-top: 30%;">Fire alarm systems are really important and ensure the safety of everyone in the premises, as well as safe guard against the occurrence of potential property loss in the event of a fire.</p>
+                    </div>
+                    <div class="col-lg-6 col-6 text-center">
+                        <div class="">
+                          <img src="img/portfolio/fls01.jpeg" alt="" width="100%" height="100%">
+                        </div>
+                    </div>
+                  </div>
+                  </div>
+                </div>
+            </section>
+          
+            <section id="facts"  class="wow fadeIn">
+                <div class="container">
+                    <div class="row counters">
+                      <div class="col-lg-6 col-6 text-center">
+                          <div class="">
+                            <img src="img/portfolio/fls02.jpeg" alt="" width="100%" height="100%" >
+                          </div>
+                      </div>
+                      <div class="col-lg-6 col-6 text-center">
+                          <p style="padding-top: 30%;">Automatically call the emergency services and key contacts to minimise the time it takes for the fire brigade to attend site</p>
+                      </div>
+                    </div>
+                </div>
+            </section>
+    
+      
 
   </main>
 

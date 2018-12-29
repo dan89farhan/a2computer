@@ -52,13 +52,13 @@
 
         <header class="section-header">
           <h3>New Computer</h3>
-          <p>A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+          <p>A2Computer offers New Computer for all your needs. We can provide with products as per the customer requirements.</p>
         </header>
 
         <div class="container">
         <div class="row counters">
           <div class="col-lg-6 col-6 text-center">
-              <p style="padding-top: 30%;">A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+              <p style="padding-top: 30%;">The costs for a New Computer are very high . However, with A2Computer, we provide at low costs .</p>
           </div>
           <div class="col-lg-6 col-6 text-center">
               <div class="">
@@ -79,7 +79,7 @@
                 </div>
             </div>
             <div class="col-lg-6 col-6 text-center">
-                <p style="padding-top: 30%;">A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+                <p style="padding-top: 30%;">Computer has made a very vital impact on society. It has changed the way of life. The use of computer technology has affected every field of life. People are using computers to perform different tasks quickly and easily</p>
             </div>
           </div>
       </div>
@@ -91,13 +91,13 @@
 
         <header class="section-header">
           <h3>Old Computer</h3>
-          <p>A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+          <p>A2Computer offers old Computer for all your needs. We can provide with products as per the customer requirements.</p>
         </header>
 
         <div class="container">
             <div class="row counters">
               <div class="col-lg-6 col-6 text-center">
-                  <p style="padding-top: 30%;">2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+              <p style="padding-top: 30%;">The costs for a old Computer are very high . However, with A2Computer, we provide at low costs .</p>
               </div>
               <div class="col-lg-6 col-6 text-center">
                   <div class="">
@@ -119,7 +119,7 @@
                 </div>
             </div>
             <div class="col-lg-6 col-6 text-center">
-                <p style="padding-top: 30%;">A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+                <p style="padding-top: 30%;">The use of computers makes different task easier. It also saves time and effort and reduces the overall cost to complete a particular task.</p>
             </div>
           </div>
       </div>
@@ -130,13 +130,13 @@
 
         <header class="section-header">
           <h3>Repair Computer</h3>
-          <p>A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+          <p>A2Computer offers Repair Computer for all your needs. We can provide with products as per the customer requirements.</p>
         </header>
 
         <div class="container">
             <div class="row counters">
               <div class="col-lg-6 col-6 text-center">
-                  <p style="padding-top: 30%;">A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+                  <p style="padding-top: 30%;">The costs for a Repair Computer are very high . However, with A2Computer, we provide at low costs .</p>
               </div>
               <div class="col-lg-6 col-6 text-center">
                   <div class="">
@@ -157,7 +157,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-6 text-center">
-                    <p style="padding-top: 30%;">A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+                    <p style="padding-top: 30%;">Many organizations are using computers for keeping the records of their customers. Banks are using computers for maintaining accounts and managing financial transactions.</p>
                 </div>
               </div>
           </div>

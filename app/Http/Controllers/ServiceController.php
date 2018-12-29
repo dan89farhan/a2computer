@@ -24,4 +24,8 @@ class ServiceController extends BaseController
     {
         return view('Services.CCTV');
     }
+    public function AMC()
+    {
+        return view('Services.AMC');
+    }
 }

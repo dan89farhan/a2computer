@@ -50,13 +50,13 @@
 
           <header class="section-header">
             <h3>Install Operating System</h3>
-            <p>A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+          <p>A2Computer offers new Install Operating System for all your needs. We can provide with products as per the customer requirements.</p>
           </header>
 
           <div class="container">
               <div class="row counters">
                 <div class="col-lg-6 col-6 text-center">
-                    <p style="padding-top: 30%;">A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+                    <p style="padding-top: 30%;">An operating system, or OS, is a software program that enables the computer hardware to communicate and operate with the computer software. The most well-known operating systems are Windows</p>
                 </div>
                 <div class="col-lg-6 col-6 text-center">
                     <div class="">
@@ -77,7 +77,7 @@
                       </div>
                   </div>
                   <div class="col-lg-6 col-6 text-center">
-                      <p style="padding-top: 30%;">A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+                      <p style="padding-top: 30%;">Windows is a series of operating systems developed by Microsoft. Each version of Windows includes a graphical user interface, with a desktop that allows users to view files and folders in windows</p>
                   </div>
                 </div>
             </div>
@@ -87,7 +87,7 @@
         <div class="container">
             <div class="row counters">
               <div class="col-lg-6 col-6 text-center">
-                  <p style="padding-top: 30%;">A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+                  <p style="padding-top: 30%;">The Linux open source operating system, or Linux OS, is a freely distributable, cross-platform operating system based on Unix that can be installed on PCs, laptops, netbooks, mobile and tablet devices, video game consoles, servers, supercomputers and more.</p>
               </div>
               <div class="col-lg-6 col-6 text-center">
                   <div class="">
@@ -108,7 +108,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-6 text-center">
-                    <p style="padding-top: 30%;">A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+                    <p style="padding-top: 30%;">The Linux OS is frequently packaged as a Linux distribution for both desktop and server use, and includes the Linux kernel (the core of the operating system) as well as supporting tools and libraries. Popular Linux OS distributions include Debian, Ubuntu, Fedora, Red Hat and openSUSE.</p>
                 </div>
               </div>
           </div>
@@ -119,13 +119,13 @@
 
           <header class="section-header">
             <h3>Install Software</h3>
-            <p>A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+          <p>A2Computer offers new Install Software for all your needs. We can provide with products as per the customer requirements.</p>
           </header>
 
           <div class="container">
               <div class="row counters">
                 <div class="col-lg-6 col-6 text-center">
-                    <p style="padding-top: 30%;">A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+                    <p style="padding-top: 30%;">It has been designed specifically for specific business needs. It can be adapted through customized software programming to adapt to the operational needs of an organization.</p>
                 </div>
                 <div class="col-lg-6 col-6 text-center">
                     <div class="">
@@ -146,7 +146,7 @@
                       </div>
                   </div>
                   <div class="col-lg-6 col-6 text-center">
-                      <p style="padding-top: 30%;">A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+                      <p style="padding-top: 30%;">Custom software is created to have a simple interface with other software, thus providing a fully integrated system to the IT infrastructure of the commercial entity.</p>
                   </div>
                 </div>
             </div>
@@ -156,7 +156,7 @@
         <div class="container">
             <div class="row counters">
               <div class="col-lg-6 col-6 text-center">
-                  <p style="padding-top: 30%;">A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+                  <p style="padding-top: 30%;">One of the most important aspects is its flexibility compared to software packages. Custom software can be changed and modified over time according to changes in business requirements.</p>
               </div>
               <div class="col-lg-6 col-6 text-center">
                   <div class="">
@@ -177,7 +177,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-6 text-center">
-                    <p style="padding-top: 30%;">A2Computer was formed in the year 1999, fron start to today we provide our services in Electronics Service Centre. We Specialize in Sales Old Computer, Install Software, Remote Service,CCTV rent and Maintance and Installation CCTV.</p>
+                    <p style="padding-top: 30%;">Expandable and connectable to different web services, SDK and other external applications to expand information, data, updates, calls to other systems, among others.</p>
                 </div>
               </div>
           </div>
