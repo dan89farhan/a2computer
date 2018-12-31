@@ -140,7 +140,7 @@
               </div>
               <div class="col-lg-6 col-6 text-center">
                   <div class="">
-                    <img src="img/portfolio/pc2.jpg" alt="" width="100%" height="100%">
+                    <img src="img/portfolio/pc4.jpg" alt="" width="100%" height="100%">
                   </div>
               </div>
             </div>

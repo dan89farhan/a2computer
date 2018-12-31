@@ -77,7 +77,7 @@
                       </div>
                   </div>
                   <div class="col-lg-6 col-6 text-center">
-                      <p style="padding-top: 30%;">Windows is a series of operating systems developed by Microsoft. Each version of Windows includes a graphical user interface, with a desktop that allows users to view files and folders in windows</p>
+                      <p style="padding-top: 25%;">Windows is a series of operating systems developed by Microsoft. Each version of Windows includes a graphical user interface, with a desktop that allows users to view files and folders in windows</p>
                   </div>
                 </div>
             </div>
@@ -125,7 +125,7 @@
           <div class="container">
               <div class="row counters">
                 <div class="col-lg-6 col-6 text-center">
-                    <p style="padding-top: 30%;">It has been designed specifically for specific business needs. It can be adapted through customized software programming to adapt to the operational needs of an organization.</p>
+                    <p style="padding-top: 20%;">It has been designed specifically for specific business needs. It can be adapted through customized software programming to adapt to the operational needs of an organization.</p>
                 </div>
                 <div class="col-lg-6 col-6 text-center">
                     <div class="">
