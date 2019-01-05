@@ -15,9 +15,6 @@
 			<label>Email :{{ $Email }}</label>
 		</li>
 		<li>
-			<label>Subject :{{ $Subject }}</label>
-		</li>
-		<li>
 			<label>Message :{{ $Message }}</label>
 		</li>
 	</ul>
