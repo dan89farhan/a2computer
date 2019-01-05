@@ -39,7 +39,7 @@
                     </li>
                     <li><a href="Gallery">Gallery</a></li>
                     <li><a href="Contact">Contact</a></li>
-                    <li><a href="Query" style="background-color: #43455c;padding-bottom: 5px;">Having Query ?</a></li>
+                    <li><a href="Query?QueryType=@yield('QueryType')" style="background-color: #43455c;padding-bottom: 5px;">Having Query ?</a></li>
                 </ul>
             </nav>
         </div>
@@ -82,6 +82,9 @@
   <script src="contactform/contactform.js"></script>
 
   <script src="js/main.js"></script>
+  <script type="text/javascript">
+	@yield('scripts')
+  </script>
 
 </body>
 </html>

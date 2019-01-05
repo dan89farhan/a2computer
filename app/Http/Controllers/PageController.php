@@ -36,24 +36,19 @@ class PageController extends BaseController
     }
     public function SendMail(Request $request)
     {
-        dd($request);
-
-        var_dump($request);
-
-        print_r($request);
-        
-        $data = array(
-            'Category' => $request->Cate , 
-            'SubCategory' => $request->SubCate, 
-            'Name' => $request->name, 
-            'Email'=> $request->email,
-            'Subject' => $request->subject, 
-            'Message' => $request->message
+		$data = array(
+            'Category' =>Request::input('cate'), 
+            'SubCategory' =>Request::input('subcate'), 
+            'Name' =>Request::input('name'),
+            'Email'=>Request::input('email'),
+            'Subject' =>Request::input('subject'), 
+            'Message' =>Request::input('message')
         );
-        Mail::send(['text'=> 'Pages.Temp'], $data, function($message) {
-            $message->to('khanjavedhero@gmail.com', 'Jon Doe')->subject('Welcome to the Laravel 4 Auth App!');
-            $message->from('khanjavedhero@gmail.com','javed');
+        Mail::send('Temp', $data, function($message) {
+            $message->to('khanjavedhero@gmail.com', 'Hero')->subject('New Query');
+            $message->from('user@gmail.com','user');
         });
+		return view('Pages.Home');
     }
     
 }

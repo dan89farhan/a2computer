@@ -230,18 +230,18 @@
             <div class="container">
     
               <header class="section-header">
-                <h3>School Bell</h3>
-                <p>A2Computer offers School Bell for all your needs. We can provide with products as per the customer requirements.</p>
+                <h3>Video audio door phone</h3>
+                <p>A2Computer offers Video Audio Door Phone for all your needs. We can provide with products as per the customer requirements.</p>
               </header>
     
               <div class="container">
                   <div class="row counters">
                     <div class="col-lg-6 col-6 text-center">
-                        <p style="padding-top: 30%;">School Bell uses coded signals that are sent and received between the panel at the exterior door containing the bell press switch, and the wireless ones are kept inside the house.</p>
+                        <p style="padding-top: 30%;">Video door phone comprises an indoor unit with a monitor and an outdoor unit with an inbuilt microphone and camera to identify and communicate with the visitor without having to open the door. The monitor inside the user’s home gets automatically triggered on a pleasant chime and the visitor’s image is captured instantly.</p>
                     </div>
                     <div class="col-lg-6 col-6 text-center">
                         <div class="">
-                          <img src="img/portfolio/dbs1.jpeg" alt="" width="100%" height="100%">
+                          <img src="img/portfolio/vadbs2.png" alt="" width="100%" height="100%">
                         </div>
                     </div>
                   </div>
@@ -254,11 +254,11 @@
                     <div class="row counters">
                       <div class="col-lg-6 col-6 text-center">
                           <div class="">
-                            <img src="img/portfolio/dbs2.jpeg" alt="" width="100%" height="100%" >
+                            <img src="img/portfolio/vadbs1.png" alt="" width="100%" height="100%" >
                           </div>
                       </div>
                       <div class="col-lg-6 col-6 text-center">
-                          <p style="padding-top: 30%;">Whenever a visitor standing outside the door presses the doorbell button, the panel sends a signal from outside the house which is received by the doorbell inside and thus it emits a distinct sound that is heard by the person inside the house.</p>
+                          <p style="padding-top: 30%;">The system enables secret monitoring of the camera location, providing clear images even at night. Its two-way audio communication feature allows conversation with the visitor without having to open the door. A strong outer casing protects the camera against tampering whereas the system’s overall appearance offers it an extremely elegant look.</p>
                       </div>
                     </div>
                 </div>
