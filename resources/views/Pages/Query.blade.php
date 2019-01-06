@@ -51,7 +51,7 @@
                   <input type="number" name="contact" class="form-control" id="contact" placeholder="Your contact" />
                 </div>
                 <div class="form-group col-md-6">
-                  <input type="number" class="form-control" name="contact1" id="contact1" placeholder="Your alternative contact" />
+                  <input type="number" class="form-control" name="contact1" id="contact1" placeholder="Your Alt contact" />
                 </div>
               </div>
               <div class="form-group">

@@ -15,7 +15,7 @@
 			<label>Contact :{{ $Contact }}</label>
 		</li>
 		<li>
-			<label>alt Contact :{{ $Contact1 }}</label>
+			<label>Alt Contact :{{ $Contact1 }}</label>
 		</li>
 		<li>
 			<label>Email :{{ $Email }}</label>
