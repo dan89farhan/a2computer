@@ -72,7 +72,12 @@
 				debugger
 				var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
 				var querystr=hashes[0].split('=');
-				document.getElementById("cate").value = querystr[1];
+				if(querystr[1]==""){
+					document.getElementById("cate").value = "Others";
+				}else {
+					document.getElementById("cate").value = querystr[1];
+				}
+
 	    });
     });
 @stop
