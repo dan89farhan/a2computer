@@ -27,6 +27,7 @@
                       <div class="contact-phone">
                         <i class="ion-ios-telephone-outline"></i>
                         <h3>Phone Number</h3>
+						<p><a href="tel:+9664550308">+91 9664550308</a></p>
                         <p><a href="tel:+8080670644">+91 8080670644</a></p>
 						<p><a href="tel:+8879907579">For CCTV +91 8879907579</a></p>
                       </div>
@@ -75,6 +76,14 @@
                 </div>
                 <div class="form-group col-md-6">
                   <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" />
+                </div>
+              </div>
+			  <div class="form-row">
+                <div class="form-group col-md-6">
+                  <input type="number" name="contact" class="form-control" id="contact" placeholder="Your contact" />
+                </div>
+                <div class="form-group col-md-6">
+                  <input type="number" class="form-control" name="contact1" id="contact1" placeholder="Your alternative contact" />
                 </div>
               </div>
               <div class="form-group">

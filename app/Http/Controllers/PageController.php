@@ -41,7 +41,9 @@ class PageController extends BaseController
             'SubCategory' =>Request::input('subcate'), 
             'Name' =>Request::input('name'),
             'Email'=>Request::input('email'),
-            'Message' =>Request::input('message')
+            'Message' =>Request::input('message'),
+			'Contact'=>Request::input('contact'),
+			'Contact1'=>Request::input('contact1')
         );
         Mail::send('Temp', $data, function($message) {
             $message->to('khanjavedhero@gmail.com', 'Hero')->subject('New Query');

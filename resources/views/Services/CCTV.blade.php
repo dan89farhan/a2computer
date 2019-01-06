@@ -149,45 +149,6 @@
                 </div>
             </div>
         </section>
-
-        <section id="facts"  class="wow fadeIn">
-            <div class="container">
-    
-              <header class="section-header">
-                <h3>Door Bell</h3>
-                <p>A2Computer offers Door Bell for all your needs. We can provide with products as per the customer requirements.</p>
-              </header>
-    
-              <div class="container">
-                  <div class="row counters">
-                    <div class="col-lg-6 col-6 text-center">
-                        <p style="padding-top: 30%;">doorbell uses coded signals that are sent and received between the panel at the exterior door containing the bell press switch, and the wireless ones are kept inside the house.</p>
-                    </div>
-                    <div class="col-lg-6 col-6 text-center">
-                        <div class="">
-                          <img src="img/portfolio/dbs1.jpeg" alt="" width="100%" height="100%">
-                        </div>
-                    </div>
-                  </div>
-                  </div>
-                </div>
-            </section>
-          
-            <section id="facts"  class="wow fadeIn">
-                <div class="container">
-                    <div class="row counters">
-                      <div class="col-lg-6 col-6 text-center">
-                          <div class="">
-                            <img src="img/portfolio/dbs2.jpeg" alt="" width="100%" height="100%" >
-                          </div>
-                      </div>
-                      <div class="col-lg-6 col-6 text-center">
-                          <p style="padding-top: 30%;">Whenever a visitor standing outside the door presses the doorbell button, the panel sends a signal from outside the house which is received by the doorbell inside and thus it emits a distinct sound that is heard by the person inside the house.</p>
-                      </div>
-                    </div>
-                </div>
-            </section>
-    
         <section id="facts"  class="wow fadeIn">
             <div class="container">
     

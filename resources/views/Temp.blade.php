@@ -12,17 +12,17 @@
 			<label>Name :{{ $Name }}</label>
 		</li>
 		<li>
+			<label>Contact :{{ $Contact }}</label>
+		</li>
+		<li>
+			<label>alt Contact :{{ $Contact1 }}</label>
+		</li>
+		<li>
 			<label>Email :{{ $Email }}</label>
 		</li>
 		<li>
 			<label>Message :{{ $Message }}</label>
 		</li>
 	</ul>
-	
-	
-	
-	
-	
-	
 </body>
 </html>
