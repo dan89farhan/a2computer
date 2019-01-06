@@ -68,7 +68,7 @@
                   </div>
     
               <div class="col-lg-4 col-6 text-center">
-                <span data-toggle="counter-up">18</span>
+                <span data-toggle="counter-up">518</span>
                 <p>CCTV</p>
                       </div>
     
